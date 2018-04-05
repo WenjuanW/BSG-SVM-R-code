@@ -1,5 +1,5 @@
 ############################################
-#####BSG-SVM with online pass for training and batch testing
+#####OBSG-SVM with online pass for training and batch testing
 ############################################
 
 library("pracma", lib.loc="~/R/x86_64-pc-linux-gnu-library/3.2")
